@@ -1,0 +1,23 @@
+# Credenciales — NUNCA subir el config.py real
+config.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+*.egg-info/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
